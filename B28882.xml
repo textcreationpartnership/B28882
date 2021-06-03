@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks on trade in a dialogue between a committee-man and an interloper.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28882</idno><idno type="EEBO-CITATION">99888453</idno>
+  <idno type="VID">196232</idno>
+  <idno type="EEBO-PROQUEST">2240882130</idno>
+  
+            <idno type="STC">Wing R936B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.6.[1]</idno>
+            <idno type="STC">ESTC R230157</idno>
+            <idno type="PROQUEST">ocm99888453</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888453e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196232)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:1[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks on trade in a dialogue between a committee-man and an interloper.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.),   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hindmarsh, book-sellar to his Royal Highness, at the Black Bull in Cornhil; and entred according to order.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Commerce --  Early works to 1800.</term>
+               <term type="topical_term">Shipping --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:196232:1"/>
+            <head>REMARKS ON TRADE IN A DIALOGUE BETWEEN A <hi>Committee-man</hi> and an <hi>Interloper.</hi>
+            </head>
+            <sp>
+               <speaker>Committee-man.</speaker>
+               <p>WHAT think you now, was not our Plot well laid?</p>
+            </sp>
+            <sp>
+               <speaker>Interloper.</speaker>
+               <p>What Plot, 'Pray you? for I'm ignorant.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>To get Money, Man; not against Church or State, you may be sure.</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>A Plot to get Money, do you say? Why, you'll most of you be ruin'd: Two Ships are cast away, <hi>Bantam</hi>'s taken by the Dutch, the <hi>China</hi>-Trade's lost, <hi>Heugley</hi> not surrendred to the new Agent, your Estates less worth this Week by thirty or forty thousand Pound a Man than the last; you must stop all <hi>Pay<g ref="char:EOLhyphen"/>ments,</hi> a down-right <hi>Break</hi> follows, and then where are you!</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>You're ignorant enough i' conscience, if you take all these Reports for Truth, and not so sharp neither as I took you for; my purpose is to open this <hi>Intrigue,</hi> to rectifie your <hi>Notions,</hi> and detect some <hi>Practices,</hi> which being un<g ref="char:EOLhyphen"/>derstood, you cannot be imposed on.</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>'Twould please me well to be in any honest Plot to get Money; I think my self in as fair a way for that as any of you all, and perhaps honester: They talk strange things of you abroad, of the Measures you take; that <hi>Ar<g ref="char:EOLhyphen"/>bitrary Government</hi> is no where exercised but with you; you get Mens Stock from 'em, and afterwards make 'em pay for it again; you take their Money and Goods, and open your Treasury at pleasure; and yet in despight of the <hi>Tib</hi> and the <hi>Tom,</hi> Judgment has reach'd you; you're divided among your selves, and all at a stand at last.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>You hug your self too much without cause, the Cards are playing, our business is half done, and the Game's as good as our own: You'll think it strange to tell you, I can make <hi>Stock</hi> worth 350, or 150 <hi>per Cent.</hi> at pleasure; I'll buy great Parcels at the <hi>first</hi> Rate, and sell at the <hi>second,</hi> and yet be a Gainer. This is true, as sure as Two and Two make four.</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>Nay, you have more Tricks than a Dancing Bear; but he that buys dear and sells cheap, must needs be a Loser, as I'm convinc'd many of you are, and that by your own Confession.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>True, it is confess'd, and that we have lost great Estates, and are divi<g ref="char:EOLhyphen"/>ded among our selves, and all this without falshood, take us in our own sense.</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>Why, you are not <hi>Jesuits,</hi> I hope; how are these things consistent?</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Very well. Know then that this Intrigue was hatch'd long since, Stock engross'd, Methods resolv'd on for the raising and falling it, which by the help
+<pb facs="tcp:196232:2"/>of <hi>Romantado</hi>-Votes, and some other practices are regularly effected, and the <hi>Stock</hi> (laid up in Lavender) dispers'd into numerous hands at great Rates; what may still remain, is reserv'd for the next rise, together with those loose Corns we may pick up from needy or frighted people, at low Rates; and thus we may hold on, till some accident dissolves us, or, (which may be fatal) till our design be discovered, and the people be afraid to deal with us.</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>And then good night <hi>Nicholas.</hi> But what mean you by those <hi>Votes</hi> just now spoke on?</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Oh! Those are making <hi>two</hi> Hundred Pounds of <hi>one,</hi> with the holding up a finger, for sending out only <hi>thirty Ships,</hi> to fetch <hi>twelve Thousand Tun</hi> of Goods, that we will pay but three <hi>per Cent.</hi> Interest, and the like; the very Nick of time wherein to run up Stock and to run it off too! which design was well ad<g ref="char:EOLhyphen"/>vanc'd and promoted by the greatness of that <hi>Sale,</hi> and the private intimations then given of a Dividend; which with other seasonable Rumours, I promise you, was discreetly manag'd, and to good purpose.</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>There were some three or four Wise Men among you, who made Hay in that Sun-shine, but were however severely damn'd by the rest for their good fortune.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Neither the one nor the other, take my word; the Wise Men were only Agents for the whole, and the severity no more than pretended. I must needs know how things go <hi>within</hi> Doors.</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>But to my knowledge, some forward men bought much at high Pri<g ref="char:EOLhyphen"/>ces; I saw them pay the Money; I pity them with all my heart; and yet they're well enough serv'd, because they are so proud and self-conceited.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>Hold! You run on at a strange rate; few of these were real Bargains, those that were, had as many Proprietors in them, as those Bargains had, where selling was in the case. The <hi>Club</hi> of <hi>Officers</hi> are a good institution, having ma<g ref="char:EOLhyphen"/>ny ends and uses in their contrivance; The want of <hi>Money,</hi> caused by our selves, the <hi>Votes</hi> thereupon, the offering our <hi>Bonds</hi> for Money, and the pretended <hi>Di<g ref="char:EOLhyphen"/>visions</hi> amongst us, were all of excellent <hi>use</hi> too, to further our design. To these we may add the Kings doing us new Honours, and our defeating your Tribe of Interlopers, and whatever may make a noise, and raise dust about our affairs, to amuse and confound mens minds.</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>Just now I hear that Twenty <hi>T. Merchants</hi> do put in to be of the <hi>Com<g ref="char:EOLhyphen"/>mittee,</hi> and will buy up Stock to strengthen their Party against the next Election.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>That's a pleasant story; I remember the very same this time Twelve-month. Do you hear of the New Vote to make no Dividends till Debts called in be all paid, and to keep no Money at Interest but what we're desired on New Bonds?</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>This Sugar-plumb will do no harm; they say People are well pleased with it.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>I hope it will do us good service, for more than ordinary is design'd by it. I'm bewitched for not selling off all this while. What an Estate have I lost by holding! The thoughts of it almost distract me.</p>
+            </sp>
+            <sp>
+               <speaker>Interl.</speaker>
+               <p>Why are you so <hi>Melancholy</hi> of a sudden? I fear all's not right with you. I thought what you've been saying, was impertinent, and the fruits of an intem<g ref="char:EOLhyphen"/>perate fancy.</p>
+            </sp>
+            <sp>
+               <speaker>Com.</speaker>
+               <p>To deal truly with you, I have drawn in abundance to their vast loss; and to take off ill thoughts, I must condole and sympathize with the sufferers; whereupon there's no suspicion of a Plot. This means does call in and cancel my <hi>Obligations,</hi> which I could not do otherwise without Jealousie; this also makes way to leave me handsomely out of the <hi>Committee;</hi> other benefits arise from my present <hi>dull humour,</hi> but time will set all things to rights. <hi>Farewell.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Joseph Hindmarsh,</hi> Book-sellar to his Royal Highness, at the <hi>Black Bull</hi> in <hi>Cornhil;</hi> And Entred according to Order. 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
